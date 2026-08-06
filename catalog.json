@@ -1,0 +1,105 @@
+{
+  "format": "shomroid-catalog",
+  "formatVersion": 1,
+  "app": {
+    "versionName": "1.2.31",
+    "versionCode": 53,
+    "releaseTag": "v1.2.31+53",
+    "assetName": "shomroid.apk",
+    "byteLength": 306000000,
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "signingCertSha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "packages": [
+    {
+      "code": "2e58",
+      "version": 1,
+      "releaseTag": "data-2e58-v1",
+      "assetName": "pkg-2e58-v1.bin",
+      "byteLength": 110383104,
+      "sha256": "a8c8eeda0e31c79a062c803f60b84f5a389811591e41396a48781cd8097868a8",
+      "required": true
+    },
+    {
+      "code": "3c77",
+      "version": 1,
+      "releaseTag": "data-3c77-v1",
+      "assetName": "pkg-3c77-v1.bin",
+      "byteLength": 13344768,
+      "sha256": "adcdddb2aa84b3c630b19fc1bdd25a366586f60e2f505a31b20bc9cdb2f28bea",
+      "required": false
+    },
+    {
+      "code": "4a1c",
+      "version": 1,
+      "releaseTag": "data-4a1c-v1",
+      "assetName": "pkg-4a1c-v1.bin",
+      "byteLength": 28139520,
+      "sha256": "5fc97c1a05f6d52850bc800aefff2a23ae225d6cff1a8e5e72e2ba8cf98eb6d1",
+      "required": true
+    },
+    {
+      "code": "5f19",
+      "version": 1,
+      "releaseTag": "data-5f19-v1",
+      "assetName": "pkg-5f19-v1.bin",
+      "byteLength": 119963648,
+      "sha256": "47ebe4c51733121439c3d8b41a95f4a36dcce6d00486549dfd4597237ce87173",
+      "required": false
+    },
+    {
+      "code": "7b30",
+      "version": 1,
+      "releaseTag": "data-7b30-v1",
+      "assetName": "pkg-7b30-v1.bin",
+      "byteLength": 54870016,
+      "sha256": "0dc649b51237d64450c37832f55705cc41ecc54b3099a18d9c545ca7a4490156",
+      "required": true
+    },
+    {
+      "code": "81be",
+      "version": 1,
+      "releaseTag": "data-81be-v1",
+      "assetName": "pkg-81be-v1.bin",
+      "byteLength": 52756480,
+      "sha256": "d7832f0c65956ae2089f337bfd72ba9b2419e6fd394f46672ee7b56b8c4c3d0c",
+      "required": false
+    },
+    {
+      "code": "9d04",
+      "version": 1,
+      "releaseTag": "data-9d04-v1",
+      "assetName": "pkg-9d04-v1.bin",
+      "byteLength": 7921664,
+      "sha256": "f54ae6fd084e2ff54b1df8e4e09f84e56ec2b94fb1c78f2b38f9a7db19d00f64",
+      "required": true
+    },
+    {
+      "code": "ab95",
+      "version": 1,
+      "releaseTag": "data-ab95-v1",
+      "assetName": "pkg-ab95-v1.bin",
+      "byteLength": 69632,
+      "sha256": "417a2429b240be882f017a8213b2915407a7b27c773bb9825afd0bb73bffcc87",
+      "required": false
+    },
+    {
+      "code": "c6a2",
+      "version": 1,
+      "releaseTag": "data-c6a2-v1",
+      "assetName": "pkg-c6a2-v1.bin",
+      "byteLength": 4063232,
+      "sha256": "5ee41e6cc0d76e7e3a61236af5b25c1faeabde2b0844a281f0ed4cddb1131da3",
+      "required": true
+    },
+    {
+      "code": "e042",
+      "version": 1,
+      "releaseTag": "data-e042-v1",
+      "assetName": "pkg-e042-v1.bin",
+      "byteLength": 729088,
+      "sha256": "7d41a3543aad5ff73797aaddfe91a600f4fb74d0c4f91ad79dfbd9e6d06d5f12",
+      "required": false
+    }
+  ]
+}
