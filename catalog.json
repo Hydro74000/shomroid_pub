@@ -6,8 +6,8 @@
     "versionCode": 61,
     "releaseTag": "v1.2.39+61",
     "assetName": "shomroid-1.2.39+61-full.apk",
-    "byteLength": 264034376,
-    "sha256": "9a21fe5d37f875ffaf3682f203a692ae3a3adddc23c5bd0df5d1d44ee80498b7",
+    "byteLength": 264116296,
+    "sha256": "63063cba1b7e9a702a5e6f89ed0564fae7e5fa716d8552485d22adfddf16d1fe",
     "signingCertSha256": "69a1845ca7b1be65ef4db46c2589f23ba8c8e3ba66f8a40dabb65970fe603ade"
   },
   "packages": [
