@@ -57,11 +57,11 @@
     },
     {
       "code": "5f20",
-      "version": 1,
-      "releaseTag": "data-5f20-v1",
-      "assetName": "pkg-5f20-v1.bin",
-      "byteLength": 34693120,
-      "sha256": "a4a45fdbd50720813a79bc1e258e04aeb820ecb8cd31200e11be431f96c2b015",
+      "version": 2,
+      "releaseTag": "data-5f20-v2",
+      "assetName": "pkg-5f20-v2.bin",
+      "byteLength": 30334976,
+      "sha256": "2d7b967157fea4e6b0077043c62ce2aae2ba95802e1846642277d56d8bedd153",
       "required": false,
       "title_enc": "NAkdABsBISANIKLAFQlPMUgZCBxEXlxX",
       "description_enc": "MQkbBQsCqs1ZEQgRQS+s01kORS9IQF1XXx8ECk1aFVhUA00bRVZF"
