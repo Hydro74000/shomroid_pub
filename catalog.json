@@ -52,8 +52,8 @@
       "version": 1,
       "releaseTag": "data-5f20-v1",
       "assetName": "pkg-5f20-v1.bin",
-      "byteLength": 29921280,
-      "sha256": "17c685e1a953fadf0f06e821e89193b85eb4b74e385dde01aff8422e480d4374",
+      "byteLength": 34693120,
+      "sha256": "a4a45fdbd50720813a79bc1e258e04aeb820ecb8cd31200e11be431f96c2b015",
       "required": false
     },
     {
