@@ -18,7 +18,9 @@
       "assetName": "pkg-2e58-v1.bin",
       "byteLength": 110383104,
       "sha256": "a8c8eeda0e31c79a062c803f60b84f5a389811591e41396a48781cd8097868a8",
-      "required": true
+      "required": true,
+      "title": "Méditerranée Est",
+      "description": "Cartes SHOM détaillées (lon 5°E à 8°E)"
     },
     {
       "code": "3c77",
@@ -27,7 +29,9 @@
       "assetName": "pkg-3c77-v1.bin",
       "byteLength": 13344768,
       "sha256": "adcdddb2aa84b3c630b19fc1bdd25a366586f60e2f505a31b20bc9cdb2f28bea",
-      "required": false
+      "required": false,
+      "title": "Litto3D Nouvelle-Aquitaine",
+      "description": "Relief marin & côtier haute résolution"
     },
     {
       "code": "4a1c",
@@ -36,7 +40,9 @@
       "assetName": "pkg-4a1c-v1.bin",
       "byteLength": 28139520,
       "sha256": "5fc97c1a05f6d52850bc800aefff2a23ae225d6cff1a8e5e72e2ba8cf98eb6d1",
-      "required": true
+      "required": true,
+      "title": "Socle Carte & Sécurité",
+      "description": "Raster national (z≤10), Balisage, Épaves & Réglementation"
     },
     {
       "code": "5f19",
@@ -45,7 +51,9 @@
       "assetName": "pkg-5f19-v1.bin",
       "byteLength": 119963648,
       "sha256": "47ebe4c51733121439c3d8b41a95f4a36dcce6d00486549dfd4597237ce87173",
-      "required": false
+      "required": false,
+      "title": "GarminHD Aigues-Mortes",
+      "description": "Bathymétrie Golfe d'Aigues-Mortes (z10..z17)"
     },
     {
       "code": "5f20",
@@ -54,7 +62,9 @@
       "assetName": "pkg-5f20-v1.bin",
       "byteLength": 34693120,
       "sha256": "a4a45fdbd50720813a79bc1e258e04aeb820ecb8cd31200e11be431f96c2b015",
-      "required": false
+      "required": false,
+      "title": "GarminHD Côte Vermeille",
+      "description": "Bathymétrie Côte Vermeille (z10..z17)"
     },
     {
       "code": "7b30",
@@ -63,7 +73,9 @@
       "assetName": "pkg-7b30-v1.bin",
       "byteLength": 54870016,
       "sha256": "0dc649b51237d64450c37832f55705cc41ecc54b3099a18d9c545ca7a4490156",
-      "required": true
+      "required": true,
+      "title": "Méditerranée Ouest",
+      "description": "Cartes SHOM détaillées (lon 2°E à 5°E)"
     },
     {
       "code": "81be",
@@ -72,7 +84,9 @@
       "assetName": "pkg-81be-v1.bin",
       "byteLength": 52756480,
       "sha256": "d7832f0c65956ae2089f337bfd72ba9b2419e6fd394f46672ee7b56b8c4c3d0c",
-      "required": false
+      "required": false,
+      "title": "Litto3D Languedoc-Roussillon",
+      "description": "Relief marin & côtier haute résolution"
     },
     {
       "code": "9d04",
@@ -81,7 +95,9 @@
       "assetName": "pkg-9d04-v1.bin",
       "byteLength": 7921664,
       "sha256": "f54ae6fd084e2ff54b1df8e4e09f84e56ec2b94fb1c78f2b38f9a7db19d00f64",
-      "required": true
+      "required": true,
+      "title": "Atlantique & Zone Nord",
+      "description": "Cartes SHOM détaillées (lon -3°E à -0.5°E)"
     },
     {
       "code": "ab95",
@@ -90,7 +106,9 @@
       "assetName": "pkg-ab95-v1.bin",
       "byteLength": 69632,
       "sha256": "417a2429b240be882f017a8213b2915407a7b27c773bb9825afd0bb73bffcc87",
-      "required": false
+      "required": false,
+      "title": "Litto3D Corse",
+      "description": "Relief marin & côtier haute résolution"
     },
     {
       "code": "c6a2",
@@ -99,7 +117,9 @@
       "assetName": "pkg-c6a2-v1.bin",
       "byteLength": 4063232,
       "sha256": "5ee41e6cc0d76e7e3a61236af5b25c1faeabde2b0844a281f0ed4cddb1131da3",
-      "required": true
+      "required": true,
+      "title": "Bretagne",
+      "description": "Cartes SHOM détaillées (lon -6°E à -3°E)"
     },
     {
       "code": "e042",
@@ -108,7 +128,9 @@
       "assetName": "pkg-e042-v1.bin",
       "byteLength": 729088,
       "sha256": "7d41a3543aad5ff73797aaddfe91a600f4fb74d0c4f91ad79dfbd9e6d06d5f12",
-      "required": false
+      "required": false,
+      "title": "Litto3D PACA",
+      "description": "Relief marin & côtier haute résolution"
     }
   ]
 }
