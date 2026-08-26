@@ -2,12 +2,12 @@
   "format": "shomroid-catalog",
   "formatVersion": 1,
   "app": {
-    "versionName": "1.2.50",
-    "versionCode": 72,
-    "releaseTag": "v1.2.50+72",
-    "assetName": "shomroid-1.2.50+72-full.apk",
+    "versionName": "1.2.51",
+    "versionCode": 73,
+    "releaseTag": "v1.2.51+73",
+    "assetName": "shomroid-1.2.51+73-full.apk",
     "byteLength": 264707674,
-    "sha256": "4361b50b1ec6b9c820596033834e3f5d7d40e4dec6d610cc3158e8e1c03ce8ef",
+    "sha256": "11b5460eed0240cb1f8623e339e13f6f2577abd75eee21a2c034a2b54730fb39",
     "signingCertSha256": "69a1845ca7b1be65ef4db46c2589f23ba8c8e3ba66f8a40dabb65970fe603ade"
   },
   "packages": [
